@@ -18,10 +18,12 @@ Complete this separate page for Assignment 1. Choose fictional content different
 - Fictional activity and intended visitor: Playing guitar, those that are interested
 - What `index.html` contributes: The structure of the page
 - What `style.css` contributes: The way that structure is presented to the visitor
-- Element and CSS rule I inspected in DevTools: TODO
-- One responsive choice, where it is in my code, and why it helps: TODO
-- Any repair, retest, or unfinished part: TODO
+- Element and CSS rule I inspected in DevTools: I inspected the footer element and changed the font-size to 12px
+- One responsive choice, where it is in my code, and why it helps: I gave the div that has the class of content a display of flex that wraps so that the content would be readable no matter the size of the display.
+- Any repair, retest, or unfinished part: none
 
 ## How I opened the page
 
 TODO: Explain the local file route or the Codespaces preview command/path you actually used. Keep credentials and private preview links out of the repository.
+
+I opened the page using port 3000 and bringing it up on my firefox browser.
