@@ -15,9 +15,9 @@ Complete this separate page for Assignment 1. Choose fictional content different
 
 ## My explanation
 
-- Fictional activity and intended visitor: TODO
-- What `index.html` contributes: TODO
-- What `style.css` contributes: TODO
+- Fictional activity and intended visitor: Playing guitar, those that are interested
+- What `index.html` contributes: The structure of the page
+- What `style.css` contributes: The way that structure is presented to the visitor
 - Element and CSS rule I inspected in DevTools: TODO
 - One responsive choice, where it is in my code, and why it helps: TODO
 - Any repair, retest, or unfinished part: TODO
